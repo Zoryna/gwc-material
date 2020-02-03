@@ -1,0 +1,13 @@
+body { /*affects the things between the body tag*/
+  background-color: powderblue;
+  font-family:verdana;
+  text-align:center;
+}
+
+h1 { /*affects all h1 tags*/
+  color:red;
+}
+
+p { /*affects all p tags*/
+  font-size:50px;
+}
