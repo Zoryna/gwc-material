@@ -9,7 +9,7 @@ public class IfElse
   {
     /*
     Using one equals sign assigns a value to the object
-    A String and an int are objects
+    A String and an int are variables
     and you have to give them a value
     */
 
