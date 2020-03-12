@@ -26,5 +26,6 @@ public class ForLoop
     //TODO change the numbers so it counts up to 20
     //TODO change the numbers so it counts from 10 to 20
     //TODO change the numbers so it counts from 20 to 1
+    //TODO print out your name 10 times
   }
 }

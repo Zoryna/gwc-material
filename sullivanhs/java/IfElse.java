@@ -14,6 +14,7 @@ public class IfElse
     */
 
     String message = "This is a String";
+    String anotherMessage="Hello";
     int x = 1;
     int y = 1;
 
@@ -28,6 +29,18 @@ public class IfElse
       System.out.println("These two int values are equal!");
     else
       System.out.println("These two int values are NOT equal!");
+
+    if (message.equals(anotherMessage))
+      System.out.println("These messages are equal");
+    else
+      System.out.println("These messages are NOT equal");
+
+    if (x==1)
+      System.out.println("x is equal to 1");
+    else if (x>1)
+      System.out.println("x is greater than 1");
+    else if (x<1)
+      System.out.println("x is less than 1");
 
     //TODO change the x and y values to test the if-else statement
   }
